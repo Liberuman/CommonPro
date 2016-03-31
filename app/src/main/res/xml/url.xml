@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<url>
+
+
+    <Node
+        Key="login"
+        Expires="0"
+        NetType="get"
+        Url="http://192.168.1.64:8080/Test/TestServ" />
+
+
+    <!--范例
+    <Node
+        Key="login"
+        Expires="0"
+        NetType="post"
+        MockClass="org.edgar.project.mockdata.MockLoginSuccessInfo"
+        Url="http://192.168.1.56:8080/activitycontroller/test" />
+
+        -->
+
+
+</url>
